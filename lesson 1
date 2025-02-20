@@ -1,0 +1,35 @@
+The key responsibility of a data engineer is building and continuos monitoring of the pipelines.
+
+ FIRST STEP FOR DATA ENGINEERS 
+  1. Understanding the bussiness goals, what company requirements are ?
+        When building pipelines keep in mind to start with a bussiness problem to be solved.
+
+DATA WRANGLING :
+     is process of manipulating the raw data through cleaning ,structuring and tansform to meaningful data 
+          to work with.
+
+DATA WRANGLING INVOLVES SIX STEPS:
+     1. data discovery
+     2. data structuring
+     3. data cleaning
+     4. data enrichment
+     5. data validating
+     6. daat publishing
+
+
+
+Assignment : enabling data to data anlytics
+
+     through this assignment we expolre how data engineer works in end-to-end steps 
+     1.understand what business may need,  based on the requirements of the organization then we know what 
+        type of data we need to collect.
+     2.After gathering the data ,you can go to further steps but here the data is in different format using tools and scripts to change the data
+        into a single source of truth ( use tool like pandas)
+     3.store the data in data lake after performing ETL or ELT operations (use amazon redshift)
+     4.secure the data who can use it and how much they will see (use amazon iam)
+     5. continous monitoring the pipeline (use amazon cloud watch)
+
+
+ 
+      
+  
